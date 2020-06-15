@@ -1,3 +1,7 @@
+After I finished React Bootcamp on Scrimba, this is one of the projects i decided to follow and finish. I need to get the feeling and slowly progress in independency!
+https://scrimba.com/course/greactmovie/enrolled
+
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
